@@ -1,6 +1,6 @@
 # Spotifywidgetminimal
 
-Step one.. Visit https://spotify.aidenwallis.co.uk/ Once you login in, you will br brought to a page. At the top of the page you will see "Your user ID is:" Followed by a string of numbers. Copy these numbers because you will need this key for the widget
+Step one.. Visit https://spotify.aidenwallis.co.uk/ Once you login in, you will be brought to a page. At the top of the page you will see "Your user ID is:" Followed by a string of numbers. Copy these numbers because you will need this key for the widget
 
 Step Two.. On Streamelemenets create a "Custom Widget" and copy and paste each one of the fields. IE (HTML, CSS, JS, FIELDS).
 
