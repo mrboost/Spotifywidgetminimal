@@ -21,7 +21,7 @@
   },
   "fontColor": {
     "type": "colorpicker",
-    "label": "Backgound color",
+    "label": "Font color",
     "value": "rgb(0, 0, 0)"
   },
   "bgSlider": {
